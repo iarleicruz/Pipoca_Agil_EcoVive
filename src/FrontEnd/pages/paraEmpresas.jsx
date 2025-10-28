@@ -5,8 +5,8 @@ function ParaEmpresas(){
     return(
        <div>
         
-        {/* <HeroParaEmpresas />
-        <FiltroProdutosEmpresa /> */}
+        <HeroParaEmpresas />
+        <FiltroProdutosEmpresa />
 
        </div>
     )

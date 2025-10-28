@@ -10,9 +10,9 @@ function Sobre(){
 
     <HeroSobre />
     <SobreItem />
-    {/* <NossaJornada />
+     <NossaJornada />
     <NossoCompromisso />
-    <NossaEquipe /> */}
+     <NossaEquipe />
     
     </div>
     )

@@ -39,28 +39,28 @@ function FiltrosBuscaProdutos() {
                             <label for="dewey">Todos os Produtos</label>
                          </div>
                          <div>
-                            <input type="radio" id="" name="" value="" />
-                            <label for="">Modo Sustentável</label>
+                            <input type="radio" id="teste" name="teste" value="teste" />
+                            <label for="dewey">Modo Sustentável</label>
                          </div>
                          <div>
-                            <input type="radio" id="" name="" value="" />
-                            <label for="">Casa & Decoração</label>
+                            <input type="radio" id="dewey2" name="dewey2" value="dewey2" />
+                            <label for="dewey2">Casa & Decoração</label>
                          </div>
                          <div>
-                            <input type="radio" id="" name="" value="" />
-                            <label for="">Beleza Natural</label>
+                            <input type="radio" id="dewey3" name="dewey3" value="dewey3" />
+                            <label for="dewey3">Beleza Natural</label>
                          </div>
                          <div>
-                            <input type="radio" id="" name="" value="" />
-                            <label for="">Alimentação</label>
+                            <input type="radio" id="dewey4" name="dewey4" value="dewey4" />
+                            <label for="dewey4">Alimentação</label>
                          </div>
                          <div>
-                            <input type="radio" id="" name="" value="" />
-                            <label for="">Higiene Pessoal</label>
+                            <input type="radio" id="dewey5" name="dewey5" value="dewey5" />
+                            <label for="dewey5">Higiene Pessoal</label>
                          </div>
                          <div>
-                            <input type="radio" id="" name="" value="" />
-                            <label for="">Produtos Reciclados</label>
+                            <input type="radio" id="dewey6" name="dewey6" value="dewey6" />
+                            <label for="dewey6">Produtos Reciclados</label>
                          </div>
 
                        </div>
