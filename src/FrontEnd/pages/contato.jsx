@@ -6,8 +6,8 @@ import PerguntasFreq from "../components/Contato/PerguntasFreq";
 function Contato(){
     return(
 <div>
-    {/* <HeroContato />
-    <FormasContato />
+    <HeroContato />
+    {/* <FormasContato />
     <PerguntasFreq /> */}
 </div>
     )
