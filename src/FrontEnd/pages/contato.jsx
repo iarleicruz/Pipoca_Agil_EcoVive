@@ -7,8 +7,8 @@ function Contato(){
     return(
 <div>
     <HeroContato />
-    {/* <FormasContato />
-    <PerguntasFreq /> */}
+    <FormasContato />
+    {/* <PerguntasFreq /> */}
 </div>
     )
 }
