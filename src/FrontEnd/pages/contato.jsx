@@ -8,7 +8,7 @@ function Contato(){
 <div>
     <HeroContato />
     <FormasContato />
-    {/* <PerguntasFreq /> */}
+    <PerguntasFreq />
 </div>
     )
 }
