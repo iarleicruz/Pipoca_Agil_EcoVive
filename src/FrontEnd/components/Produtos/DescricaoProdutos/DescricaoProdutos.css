@@ -126,7 +126,7 @@ nav ul li{
 }
 
 .descricaoProd__buttonQuant {
-    width: 180px;
+    width: 150px;
 }
 .descricaoProd__buttonQuant p {
 font-size: 16px;
@@ -148,7 +148,7 @@ margin-bottom: 20px;
 
 }
 .descricaoProd__buttonQuant button {
-    padding: 10px 15px;
+    padding: 5px 10px;
     border: 1px solid #D1D5DC;
     border-radius: 10px;
     font-size: 20px;
