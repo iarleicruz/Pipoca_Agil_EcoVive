@@ -5,9 +5,9 @@ import Sobre from './pages/sobre';
 import Produtos from './pages/Produtos';
 import ParaEmpresas from './pages/paraEmpresas';
 import Contato from './pages/contato';
-
 import Header from './components/Header';
 import Footer from './components/Footer';
+import DescricaoProdutos from './components/Produtos/DescricaoProdutos/'
 
 
 
@@ -22,6 +22,7 @@ function RoutesApp(){
     <Route path="/Produtos" element={ <Produtos/> } />
     <Route path="/ParaEmpresas" element={ <ParaEmpresas/> } />
     <Route path="/Contato" element={ <Contato/> } />
+    <Route path="/Descricao" element={ <DescricaoProdutos/> } />
 </Routes>
 <Footer/>
 </BrowserRouter>
