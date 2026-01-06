@@ -13,7 +13,10 @@ nav ul li{
     padding: 25px 5px;
     color: #4A5565;
 }
-
+.descricaoProd__container p img{
+    margin: 10px 10px 0 0;
+  
+}
 .descricaoProd__container p{
     padding: 32px 0 32px 0;
     color: #005900;
@@ -21,6 +24,7 @@ nav ul li{
     text-decoration: underline;
     /* cursor: pointer; */
 }
+
 
 .descricao__imagensProduto{
     display: flex;
@@ -40,7 +44,7 @@ nav ul li{
 
 .descricao__imagensProduto .descricaoProd__imagem .imgCopao{
     width: 584px;
-    height: 596px;
+    height: 550px;
 }
 .imgCopao{
     padding: 0 10px 0 0;
