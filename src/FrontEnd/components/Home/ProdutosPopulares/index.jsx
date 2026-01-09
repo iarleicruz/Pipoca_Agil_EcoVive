@@ -17,7 +17,8 @@ function ProdutosPopulares(){
    <div className='produtos__items'>
     
         <div>
-            <img className="produtos__item__img" src={ imgCopo } alt="" />
+            <a  href="Descricao"><img className="produtos__item__img" src={ imgCopo } alt="" /></a>
+          
             <h4>Copo Reutilizável de Bambu</h4>
                <img className="imgEstrelas" src= { imgEstrelas } alt="" />
                <span>(4.8)</span>

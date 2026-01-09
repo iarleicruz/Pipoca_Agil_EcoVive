@@ -107,7 +107,8 @@ function FiltrosBuscaProdutos() {
                                   
                 <div className='filtrosBuscaProdutos__items'>
                     <div>
-                        <img className="filtrosBuscaProdutos__item__img" src={ imgCopo } alt="" />
+                         <a  href="Descricao"> <img className="filtrosBuscaProdutos__item__img" src={ imgCopo } alt="" /></a>
+                       
                         <h4>Copo Reutilizável de Bambu</h4>
                         <h6 className="descricao"> Copo ecológico feito de bambu <br /> natural, perfeito para bebidas.</h6>
                         <img className="imgEstrelas" src= { imgEstrelas } alt="" />

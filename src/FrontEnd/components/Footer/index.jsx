@@ -37,8 +37,8 @@ function Footer(){
                      <a className="link__menu" href="/">Inicio</a>
                      <a className="link__menu" href="Sobre">Sobre</a>
                      <a className="link__menu" href="Produtos">Produtos</a>
-                     <a className="link__menu" href="http://localhost:5173/ParaEmpresas">Para Empresas</a>
-                     <a className="link__menu" href="http://localhost:5173/Contato">Contato</a>
+                     <a className="link__menu" href="ParaEmpresas">Para Empresas</a>
+                     <a className="link__menu" href="Contato">Contato</a>
                     </div>
 
                     <div className="footer__contato">
