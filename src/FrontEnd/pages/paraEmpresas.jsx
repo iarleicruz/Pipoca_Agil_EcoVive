@@ -1,12 +1,17 @@
-import HeroParaEmpresas from "../components/ParaEmpresas/HeroParaEmpresas";
-import FiltroProdutosEmpresa from "../components/ParaEmpresas/FiltroProdutosEmpresa";
+
+import HeroProdutos from '../components/ParaEmpresas/HeroProdutos';
+import EcoviveProdutos from '../components/ParaEmpresas/EcoviveProdutos'
+import TransEmpresas from '../components/ParaEmpresas/TransEmpresas'
+import NossosProdutos from '../components/ParaEmpresas/NossosProdutos'
 
 function ParaEmpresas(){
     return(
        <div>
         
-        <HeroParaEmpresas />
-        <FiltroProdutosEmpresa />
+           <HeroProdutos />
+           <EcoviveProdutos />
+           <NossosProdutos />
+           <TransEmpresas />
 
        </div>
     )

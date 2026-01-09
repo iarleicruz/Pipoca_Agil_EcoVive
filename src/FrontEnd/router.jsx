@@ -2,7 +2,7 @@ import { HashRouter, BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import Home from './pages/home';
 import Sobre from './pages/sobre';
-import Produtos from './pages/Produtos';
+import Produtos from './pages/produtos';
 import ParaEmpresas from './pages/paraEmpresas';
 import Contato from './pages/contato';
 import Header from './components/Header';

@@ -1,16 +1,18 @@
 import HeroProdutos from '../components/Produtos/HeroProdutos';
-import EcoviveProdutos from '../components/Produtos/EcoviveProdutos'
-import TransEmpresas from '../components/Produtos/TransEmpresas'
-import NossosProdutos from '../components/Produtos/NossosProdutos'
+import FiltroProdutos from '../components/Produtos/FiltroProdutos'
+// import TransEmpresas from '../components/Produtos/TransEmpresas'
+// import NossosProdutos from '../components/Produtos/NossosProdutos'
 
 
 function Produtos(){
     return(
           <div>
-             <HeroProdutos />
-           <EcoviveProdutos />
+             {/* <HeroProdutos />
            <NossosProdutos />
-           <TransEmpresas />
+           <EcoviveProdutos />
+           <TransEmpresas /> */}
+              <HeroProdutos />
+        <FiltroProdutos />
           </div>
     )
 }

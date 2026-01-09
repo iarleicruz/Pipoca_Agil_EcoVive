@@ -1,20 +1,22 @@
 
-.heroB2B {
-  background: linear-gradient(90deg, #155DFC 0%, #005900 100%);
+.hero__Produtos {
+  background: linear-gradient(90deg, #F0FDF4 0%, #EFF6FF 100%);
   display: flex;
   justify-content: center;
-  height: 600px;
-}
-.heroB2B__container{
- width: 1200px;
- display: flex;
-    
-}
-.heroB2B__text {
-  margin-top: 80px;
+  height: 360px;
   
 }
-.heroB2B__text h1 {
+.hero__Produtos__container{
+ width: 1200px;
+ 
+    
+}
+.hero__Produtos__text {
+  margin-top: 80px;
+  text-align: center;
+  
+}
+.hero__Produtos__text h1 {
 font-family: Lora;
 font-weight: 700;
 font-style: Bold;
@@ -22,70 +24,29 @@ font-size: 56px;
 line-height: 60px;
 letter-spacing: 0%;
 vertical-align: middle;
-color: #FFFFFF;
-
+color: #101828;
 
 }
 
+.hero__Produtos__text h1 strong {
+ color: #005900;
+ font-size: 56px;
+ font-family: Lora;
+font-weight: 700;
+font-style: Bold;
 
-.heroB2B__text p {
+ }
+.hero__Produtos__text p {
 margin-top: 24px;
-margin-bottom: 62px;
+padding-bottom: 12px;
 font-family: Segoe UI;
 font-weight: 400;
 font-style: Regular;
 font-size: 20px;
 line-height: 28px;
 letter-spacing: 0%;
-color: #FFFFFF;
-
-}
-
-.heroB2B__text .btn__heroB2Be__text {
-  margin-top: 33px;
-}
-.heroB2B__text .btn__heroB2B__text .btnSoliCot{
-background: #FFFFFF;
-padding: 20px 20px 20px 32px;
-border-radius: 10px;
-opacity: 1;
-border-radius: 10px;
-font-family: Segoe UI;
-font-weight: 600;
-font-size: 16px;
-color: #005900;
-text-decoration: none;
-}
-
-
-.heroB2B__text .btn__heroB2B__text .btnVerProd{
-border: 1px solid #FFFFFF;
-color: #FFFFFF;
-background: transparent;
-padding: 20px 34px 20px 34px;
-border-radius: 10px;
-opacity: 1;
-border-radius: 10px;
-font-family: Segoe UI;
-font-weight: 600;
-font-size: 16px;
-text-decoration: none;
-margin-left: 16px;
-}
-
-.heroB2B__img .img__hero {
-width: 584;
-height: 384;
-border-radius: 16px;
-opacity: 1;
-margin-top: 80px;
+color: #4A5565;
 
 
 }
-.heroB2B__img .img__cert {
 
-position: absolute;
-top: 484px;
-left: 875px;
-
-}
